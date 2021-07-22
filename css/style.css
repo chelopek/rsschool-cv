@@ -30,6 +30,13 @@ a {
     background-color: white;
     padding: 0 10px
 }
+.header{ 
+    padding: 0px 0px;
+    position: fixed; 
+    width: 100%;
+    left: 0;
+    top: 0;
+}
 .header_name{
   font-size: 58px;
   font-weight: 400px;
@@ -42,9 +49,8 @@ a {
     align-items: center;
 }
 .main{
-    
     font-size: 24px;
-    
+    padding-top: 160px;
 }
 
 .main__info{
@@ -57,4 +63,22 @@ a {
 .block + .block {
     margin-top: 10px;
 }
+ .footer{
+    font-size: 24px;
+    position: fixed; 
+    width: 100%; 
+    bottom: 0%;
+}
 
+.footer__logo {
+    width: 100px;
+    height: 50px;
+}
+
+.footer__git{
+    width: 50px;
+    height: 50px;
+}
+.justify-content-around {
+    justify-content: space-around;
+}
