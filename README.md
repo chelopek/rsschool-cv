@@ -1,2 +1,2 @@
 
-https://chelopek.github.io/rsschool-cv HTML
+https://chelopek.github.io/rsschool-cv 
